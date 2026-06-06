@@ -1,9 +1,8 @@
 # Lord and Maiden Community Guides (Archive)
 
 A preservation archive of community-written Steam guides for the strategy game
-known as **Lord and Maiden**, published on Steam as
-[*Trip In Another World*](https://store.steampowered.com/app/1826960/) and on
-mobile as *Lord of the Other World*.
+known as **Lord and Maiden**, published under various names, such as Lord and Maiden,
+Trip In Another World, and Lord of the Other World.
 
 These guides were originally posted on the Steam Community by **Lofthouse**. They
 are mirrored here as Markdown (with all images downloaded locally) so the
