@@ -1,6 +1,6 @@
 # Lord and Maiden Community Guides (Archive)
 
-A preservation archive of community-written Steam guides for the strategy game
+A preservation archive of community-written Steam guides for the real-time strategy game
 known as **Lord and Maiden**, published under various names, such as Lord and Maiden,
 Trip In Another World, and Lord of the Other World.
 
