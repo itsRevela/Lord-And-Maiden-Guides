@@ -21,7 +21,7 @@ reformats and preserves it.
 ## Attribution
 
 - **Author:** [Lofthouse](https://steamcommunity.com/profiles/76561198109101612)
-- **Game:** *Trip In Another World* ([Steam app 1826960](https://store.steampowered.com/app/1826960/))
+- **Game:** *Lord and Maiden* ([Steam app 4671700](https://store.steampowered.com/app/4671700/Lord_and_Maiden/))
 - **Original guides:** [Lofthouse's Steam workshop files](https://steamcommunity.com/profiles/76561198109101612/myworkshopfiles/?section=guides)
 
 If you are the original author and would like any changes to this archive,
